@@ -1,0 +1,40 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumer$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumerMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducer$anon$importedEncoder$macro$33$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumerMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducer$anon$importedEncoder$macro$33$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crime$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crime.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumer$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumerMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducer$anon$importedEncoder$macro$33$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumerMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducer$anon$importedEncoder$macro$33$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crime$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crime.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumer$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeApiService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crime$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crime.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes.bak[0m

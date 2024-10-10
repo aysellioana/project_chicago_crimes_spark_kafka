@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/project_crimes_spark_kafka_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/CrimeProducerMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crime.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/Crime.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumer$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/CrimeConsumer$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/CrimeConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeApiService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/CrimeApiService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/CrimeProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/CrimeProducerMain$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Crime$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/Crime$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CrimeProducerMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/CrimeProducerMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/target/scala-2.13/classes/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

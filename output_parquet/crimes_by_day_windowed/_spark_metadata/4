@@ -1,0 +1,2 @@
+v1
+{"path":"file:///Users/abatcoveanu/Documents/Projects/project_crimes_spark_kafka/output_parquet/crimes_by_day_windowed/part-00000-31c445e6-3305-45a2-8ed9-22b735424a9f-c000.snappy.parquet","size":695,"isDir":false,"modificationTime":1728579480918,"blockReplication":1,"blockSize":33554432,"action":"add"}
